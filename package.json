@@ -1,0 +1,8 @@
+{
+  "name": "isObject",
+  "version": "1.0.0",
+  "main": "isObject.js",
+  "dependencies": {
+    "getProto": "aleclarson/getProto#1.0.0"
+  }
+}
